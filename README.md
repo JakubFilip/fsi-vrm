@@ -14,7 +14,7 @@ with the lecturer.
 2. Pick a color object and place it in the transport object (the color of the object is determined by the user).
 3. Use the conveyor belt to move the transport object to the second robot.
 4. Pick the transport object and place it in the shipping box.
-5. Pick the box lid and place it on the box.
+5. Pick the box lid and place it on the shipping box.
 
 **Software:**
 ```bash

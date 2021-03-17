@@ -18,6 +18,6 @@ with the lecturer.
 
 **Software:**
 ```bash
-ABB’s RobotStudio
+ABB’s RobotStudio (RobotStudio 2020.4)
 ```
 [Download ABB’s RobotStudio!](https://new.abb.com/products/robotics/robotstudio/downloads)
